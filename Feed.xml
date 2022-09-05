@@ -11,7 +11,7 @@
     <itunes:email>Xlax Xlaxon@gmail.com</itunes:email>
     <itunes:category text="Steaknology" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
+      <url>https://github.com/GregBaum/TestPodcast/blob/main/IMG_5621.JPG</url>
       <title>Test Title</title>
       <link>https://github.com/GregBaum/TestPodcast</link>
     </image>
@@ -22,42 +22,23 @@
     <itunes:keywords>space, steak and rock</itunes:keywords>
     <copyright>Xlax Steckno and the NEC inc</copyright>
     <description>The full NEC adventures</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <googleplay:image href="https://github.com/GregBaum/TestPodcast/blob/main/IMG_5621.JPG" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <link>https://github.com/GregBaum/TestPodcast/blob/main/Feed.xml</link>
+    <itunes:image href="https://github.com/GregBaum/TestPodcast/blob/main/IMG_5621.JPG" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
+      <author>Xlax Xlaxon</author>
+      <itunes:author>Xlax Xlaxon</itunes:author>
+      <title>Test Episode</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://github.com/GregBaum/TestPodcast/blob/main/Test.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+      Episode 0 de la saison 0 mais d'une série qui contient BEAUCOUP de saisons avec BEAUCOUP d'épisodes
         </description>
     </item>
   </channel>
