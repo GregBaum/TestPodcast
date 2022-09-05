@@ -11,9 +11,9 @@
     <itunes:email>Xlax Xlaxon@gmail.com</itunes:email>
     <itunes:category text="Steaknology" />
     <image>
-      <url>https://github.com/GregBaum/TestPodcast/blob/main/IMG_5621.JPG</url>
+      <url>https://gregbaum.github.io/TestPodcast/IMG_5621.JPG</url>
       <title>Test Title</title>
-      <link>https://github.com/GregBaum/TestPodcast</link>
+      <link>https://gregbaum.github.io/TestPodcast</link>
     </image>
     <itunes:owner>
       <itunes:name>Xlax Xlaxon</itunes:name>
@@ -22,18 +22,18 @@
     <itunes:keywords>space, steak and rock</itunes:keywords>
     <copyright>Xlax Steckno and the NEC inc</copyright>
     <description>The full NEC adventures</description>
-    <googleplay:image href="https://github.com/GregBaum/TestPodcast/blob/main/IMG_5621.JPG" />
+    <googleplay:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.JPG" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://github.com/GregBaum/TestPodcast/blob/bb6e06223bca94248211a9ab1ad40e2507ab7d68/Feed.xml</link>
-    <itunes:image href="https://github.com/GregBaum/TestPodcast/blob/main/IMG_5621.JPG" />
+    <link>https://gregbaum.github.io/TestPodcast/Feed.xml</link>
+    <itunes:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.JPG" />
     <item>
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Test Episode</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/GregBaum/TestPodcast/blob/main/Test.m4a" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://gregbaum.github.io/TestPodcast/Test.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
