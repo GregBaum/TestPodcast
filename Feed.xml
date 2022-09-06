@@ -11,7 +11,7 @@
     <itunes:email>Xlax Xlaxon@gmail.com</itunes:email>
     <itunes:category text="Steaknology" />
     <image>
-      <url>https://gregbaum.github.io/TestPodcast/IMG_5621.JPG</url>
+      <url>https://gregbaum.github.io/TestPodcast/IMG_5621.png</url>
       <title>Test Title</title>
       <link>https://gregbaum.github.io/TestPodcast</link>
     </image>
@@ -22,12 +22,12 @@
     <itunes:keywords>space, steak and rock</itunes:keywords>
     <copyright>Xlax Steckno and the NEC inc</copyright>
     <description>The full NEC adventures</description>
-    <googleplay:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.JPG" />
+    <googleplay:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
     <link>https://gregbaum.github.io/TestPodcast/Feed.xml</link>
-    <itunes:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.JPG" />
+    <itunes:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.png" />
     <item>
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
