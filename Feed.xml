@@ -46,7 +46,7 @@
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Episode 1</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://gregbaum.github.io/TestPodcast/Episode1.m4a" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://gregbaum.github.io/TestPodcast/Episode%201.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>01:33</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
