@@ -29,6 +29,7 @@
     <link>https://gregbaum.github.io/TestPodcast/Feed.xml</link>
     <itunes:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.png" />
     <item>
+      <itunes:season>Saison 1</itunes:season>
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Episode 0</title>
@@ -41,6 +42,7 @@
         </description>
     </item>
     <item>
+      <itunes:season>Saison 1</itunes:season>
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Episode 1</title>
@@ -54,6 +56,7 @@
         </description>
     </item>
     <item>
+      <itunes:season>Saison 1</itunes:season>
       <author>Xlax et Bébért</author>
       <itunes:author>Xlax et Bébért</itunes:author>
       <title>Episode 2</title>
