@@ -25,14 +25,14 @@
     <googleplay:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 5 Sept 2022 20:00:00 GMT</pubDate>
+    <pubDate>Mon, 5 Sep 2022 20:00:00 GMT</pubDate>
     <link>https://gregbaum.github.io/TestPodcast/Feed.xml</link>
     <itunes:image href="https://gregbaum.github.io/TestPodcast/IMG_5621.png" />
     <item>
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Episode 0</title>
-      <pubDate>Mon, 5 Sept 2022 20:00:00 GMT</pubDate>
+      <pubDate>Mon, 5 Sep 2022 20:00:00 GMT</pubDate>
       <enclosure url="https://gregbaum.github.io/TestPodcast/Test.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
@@ -44,7 +44,7 @@
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Episode 1</title>
-      <pubDate>Tue, 6 Sept 2022 20:00:00 GMT</pubDate>
+      <pubDate>Tue, 6 Sep 2022 20:00:00 GMT</pubDate>
       <enclosure url="https://gregbaum.github.io/TestPodcast/Episode%201.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>01:33</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
@@ -57,7 +57,7 @@
       <author>Xlax et Bébért</author>
       <itunes:author>Xlax et Bébért</itunes:author>
       <title>Episode 2</title>
-      <pubDate>Wed, 7 Sept 2022 19:00:00 GMT</pubDate>
+      <pubDate>Wed, 7 Sep 2022 19:00:00 GMT</pubDate>
       <enclosure url="https://gregbaum.github.io/TestPodcast/EpisodeNum2.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>01:15</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
