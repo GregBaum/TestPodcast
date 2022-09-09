@@ -35,7 +35,7 @@
       <pubDate>Mon, 5 Sep 2022 20:00:00 GMT</pubDate>
       <enclosure url="https://gregbaum.github.io/TestPodcast/Test.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">cepod00</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>      Episode 0 de la saison 0 mais d'une série qui contient BEAUCOUP de saisons avec BEAUCOUP d'épisodes
         </description>
@@ -60,7 +60,7 @@
       <pubDate>Wed, 7 Sep 2022 19:00:00 GMT</pubDate>
       <enclosure url="https://gregbaum.github.io/TestPodcast/EpisodeNum2.m4a" type="audio/mpeg" length="34216300" />
       <itunes:duration>01:15</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">cepod02</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
       Nos aventures de NECS continuent sur la lune!
